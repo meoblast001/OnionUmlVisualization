@@ -79,4 +79,4 @@ D. Workload Estimation
 
     Total person-hours estimation: <coming soon>
     SLOC at start of iteration: 41,916
-    SLOC at end of iteration: <coming soon>
+    SLOC at end of iteration: 42,116 (+200)
